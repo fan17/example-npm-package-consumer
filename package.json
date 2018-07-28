@@ -1,0 +1,22 @@
+{
+  "name": "example-npm-package-consumer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jedrzejczak/example-npm-package-consumer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jedrzejczak/example-npm-package-consumer/issues"
+  },
+  "homepage": "https://github.com/jedrzejczak/example-npm-package-consumer#readme",
+  "dependencies": {
+    "@jedrzejczak/example-npm-package": "^1.0.0"
+  }
+}
