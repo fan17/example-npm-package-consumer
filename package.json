@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/jedrzejczak/example-npm-package-consumer#readme",
   "dependencies": {
-    "@jedrzejczak/example-npm-package": "^1.0.1"
+    "@jedrzejczak/example-npm-package": "^1.1.0"
   }
 }
